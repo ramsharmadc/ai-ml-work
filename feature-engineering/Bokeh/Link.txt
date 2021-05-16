@@ -1,0 +1,5 @@
+C:\Users\pravin pawar\BITS-Python\LS6.2 Plotting Visuals with Seaborn and Bokeh>
+
+pip install bokeh
+
+bokeh serve --show say_hello.py
